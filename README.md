@@ -74,4 +74,5 @@ The game is organized as an HTML-based interactive fiction with interconnected p
 Enjoy your stay at **After Closing Hours**... if you can survive it! 
 
 ## Video demo link
-https://youtu.be/Ln7ejgJS-3c
+https://youtu.be/Yglk_d3lq7A 
+
